@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          Automatically deploy code changes with AWS Amplify!
         </a>
       </header>
     </div>
